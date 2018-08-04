@@ -30,7 +30,5 @@ def getLastName():
             with open("LastName.txt",'a') as f:
                 f.write(str)
 
-
-
-
+#Intiates from here.
 getLastName()
